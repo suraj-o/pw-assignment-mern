@@ -1,5 +1,0 @@
-![01-css-ouput](./images/01-Screen-Shot.webp)
-![02-css-ouput](./images/02-Screen-Shot.webp)
-![03-css-ouput](./images/03-Screen-Shot.webp)
-![04-css-ouput](./images/04-Screen-Shot.webp)
-![05-css-ouput](./images/05-Screen-Shot.webp)
